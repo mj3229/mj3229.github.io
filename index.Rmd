@@ -1,0 +1,20 @@
+---
+title: "Mahitha J's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+## About Me
+
+My name is Mahitha Jangeti and I currently a master's candidate at Columbia Mailman School of Public Health. This website will showcase my academic and professional experience and give you more insight into the work I have been doing the past couple of years. Welcome! 
+
+![](images/columbia.jpg)
+
+
+Interested in the Program?
+
+* [Click Here](https://www.publichealth.columbia.edu/academics/departments/health-policy-management)
+
