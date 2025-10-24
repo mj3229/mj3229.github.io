@@ -13,8 +13,12 @@ My name is Mahitha Jangeti and I currently a master's candidate at Columbia Mail
 
 ![](images/columbia.jpg)
 
+## Experience
+
+[Academic and Professional Experience](experience.html)
 
 Interested in the Program?
 
 * [Click Here](https://www.publichealth.columbia.edu/academics/departments/health-policy-management)
+
 
