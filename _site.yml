@@ -1,0 +1,14 @@
+name: "mj3229"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Academic and Professional Experience"
+      href: experience.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<mj3229@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/mj3229
+output:
+  html_document:
+    theme: paper
