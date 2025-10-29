@@ -6,4 +6,93 @@ output:
     toc_float: true
 ---
 
-Academic
+
+## EDUCATION
+
+
+**Columbia University, Mailman School of Public Health**, New York, NY 
+
+Master of Public Health 
+
+Health Policy & Management; Certificate: Applied Biostatistics and Public Health Data Science
+
+**University of Texas at Dallas**, Richardson, TX
+Graduated: December 2022
+
+---------------------------------------------------
+
+## EXPERIENCE
+
+**Columbia Consulting Practice** New York, NY
+
+Healthcare Consulting Intern September 2025-Present
+
+•
+Evaluate cost structures, patient access patterns, and market positioning to guide organizational change in the development of a new ambulatory surgical center, aligning stakeholders on process redesign and strategic growth opportunities
+
+•
+Analyze regulatory and reimbursement frameworks that impact ambulatory surgical centers, translating policy considerations into strategic recommendations for the client
+
+•
+Perform competitive landscape analyses across regional ambulatory surgery markets to benchmark performance, service mix, and payer relationships to guide decisions on pricing, service expansion, and partnership development
+
+•
+Engage directly with clients to present results and incorporate feedback, ensuring executive summaries and presentation decks aligned with stakeholder priorities and strategic access goals
+
+**BGB Group** New York, NY
+
+Account Services Intern June 2025-August 2025
+
+•
+Designed global messaging frameworks and convention materials to drive vaccine uptake in 30+ travel and endemic markets by collaborating with 5-6 cross-functional teams, including Strategy and the Market Access Teams
+
+•
+Conducted market landscape analyses to identify treatment access gaps and assess stakeholder perspectives, shaping differentiated value propositions and client strategies
+
+•
+Led an independent research project on Brazil’s pharmaceutical market, evaluating access challenges, payer dynamics, and regulatory barriers to inform global market-access strategies and client recommendations
+
+•
+Utilized Veeva Systems to manage project workflows and review 20+ pharmaceutical advertising materials ensuring compliance, accuracy, and timely delivery of client-ready assets
+
+**North Dallas Endocrinology** Carrollton, TX
+
+Medical Assistant January 2023-June 2023
+
+•
+Managed patient intake operations using EMR systems to enhance data accuracy, streamline workflows, and ensure timely access to care
+
+•
+Optimized prior authorization procedures by coordinating between patients and insurance providers, reducing wait times for clinical procedures, and improving overall patient access to critical treatments
+
+**Leukemia and Lymphoma Society** Dallas, TX
+
+Patient and Community Outreach Intern January 2021-May 2021
+
+•
+Developed 200+ program materials to support cancer education initiatives and blood-drives, increasing participation among minority demographics
+
+•
+Strategized outreach for 2 educational blood conferences by developing event materials and coordinating with industry experts to deliver insights about blood cancers and preventive care
+
+---------------------------------------------------
+
+
+## LEADERSHIP
+
+**American Red Cross** Dallas, TX
+
+Regional Youth Team Vice President June 2020-August 2023
+
+•
+Spearheaded strategy for youth volunteer programs, doubling recruitment and retention by redesigning initiatives and launching optimized virtual opportunities for 500+ volunteers
+
+•
+Coordinated responsibilities across 8 regional officers, streamlining workflows and leveraging data-driven process improvements to enhance onboarding systems and strengthen collaboration
+
+---------------------------------------------------
+
+
+## SKILLS
+
+Technical & Analytical: Microsoft Excel, PowerPoint, R, SAS, STATA Strategic & Research: Market landscape Assessment, Value Demonstration, Health Economics Analysis, Stakeholder Mapping Languages: English, Telugu (fluent) Interests: Classical dance, music, travel
