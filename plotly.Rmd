@@ -74,7 +74,7 @@ instacart_box =
 instacart_box
 ```
 
-# Scatter Plot
+# Line Plot
 
 ```{r}
 instacart_line =
