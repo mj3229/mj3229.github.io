@@ -5,8 +5,6 @@ navbar:
   right:
     - text: "Academic and Professional Experience"
       href: experience.html
-    - text: "Plotly: Instacart Data"
-      href: plotly.html
     - text: "Instacart Dashboard"
       href: dashboard.html
     - icon: fa-envelope fa-lg
