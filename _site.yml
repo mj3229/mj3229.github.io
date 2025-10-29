@@ -7,6 +7,8 @@ navbar:
       href: experience.html
     - text: "Plotly: Instacart Data"
       href: plotly.html
+    - text: "Instacart Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<mj3229@cumc.columbia.edu>
     - icon: fa-github fa-lg

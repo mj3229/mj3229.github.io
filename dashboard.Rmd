@@ -4,7 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
-    source_code: embed
+    source: embed
 ---
 
 ```{r setup, include=FALSE}
@@ -30,8 +30,7 @@ instacart_df =
   sample_n(1000)
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
+## Column {data-width="650"}
 
 ### Chart A
 
@@ -52,8 +51,7 @@ instacart_df %>%
   )
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
+## Column {data-width="350"}
 
 ### Chart B
 
@@ -93,4 +91,3 @@ instacart_df %>%
     xaxis = list(title = "Day of Week"),
     yaxis = list(title = "Average Hour of Day (0–23)"))
 ```
-

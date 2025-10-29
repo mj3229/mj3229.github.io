@@ -21,6 +21,3 @@ Interested in the Program?
 * [Click Here](https://www.publichealth.columbia.edu/academics/departments/health-policy-management)
 
 
-## Plotly
-
-[Plotly](plotly.html)
